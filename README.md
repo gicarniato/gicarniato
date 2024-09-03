@@ -18,9 +18,10 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f0ac7cfe-f5a6-4e17-9e7c-b5c14f520771">
 </a>
 
-<a href="mailto:cmp.1a.giicarniato36@gmail.com"_blank">
-<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/79ea9a26-3262-4270-a95e-6ffbe15f2d14">
+<a href="mailto:cmp.1a.giicarniato36@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
+
 
 <a  href="https://discord.com/channels/@gicarniato" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0fdd645a-d6ea-4140-ac78-d0785d9dd00b">
