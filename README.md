@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/be361c11-023c-4cf3-af18-0537aeae6b9b"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/1f5838f1-9a58-4c30-bace-f6f83896f397"/>
 <br>
 <br>
 
@@ -11,8 +11,6 @@
 <div align="left"> 
 
 Sou estudante de ciência da computação no segundo semestre, atualmente estou focada no desenvolvimento frontend, estudando javascript, CSS, HTML. também estou iniciando o estudo em java para desenvolvimento backend para construir aplicações web completas.
-<br>
-<br>
 
 <div align="left"> 
 
@@ -34,37 +32,24 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
 <a  href="https://www.instagram.com/giiicarniato" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/084264d1-080b-46e1-bc49-c30901a12cfb">
 </a>
-
-<br>
-<br> 
-<br> 
+ 
 
 </div>
+
 <div align="left"> 
 
-### Main skills:
-<div align="center"> 
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/7e52af6b-3dd0-4372-b19d-24143c9edbae">
-
-<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/c5d67a04-4ec0-46d1-8ff1-01c6bf950dc4">
-
-
-</div>
-
-
-<br> 
-
-
-### Studyng in this moment:
+## Studyng in this moment:
 
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/1d858643-73df-40df-9821-4499733e3626">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/7fd6ae49-97ca-4616-a9bf-260ea179ccc5">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/179f6618-64b0-4ed6-ab55-f61f3749636a">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e4f126a1-3f20-48d6-b604-973464e4f929">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/1bf76bf1-81dd-4c5b-895d-838a0f256ad1">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/fe66fda0-b54b-4987-a788-f47a426f7503">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c9615698-788d-4933-81fe-6687ba1b61ea">
 
 </div>
 <br> 
@@ -73,10 +58,14 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
 <br> 
 <br> 
 
-<div align="center">
+<a align="left">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gicarniato&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+![gicarniato's Stats](https://github-readme-stats.vercel.app/api?username=gicarniato&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+<a align="right"> 
+
+![gicarniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gicarniato&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 <br>
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+<img width=100% src="https://github.com/user-attachments/assets/1f5838f1-9a58-4c30-bace-f6f83896f397"/>
