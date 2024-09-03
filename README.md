@@ -2,12 +2,6 @@
 <br>
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9C0968&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Giovanna;I'm+18+years+old;I'm+a+begginer+dev)](https://git.io/typing-svg)
-
-<br>
-
 
 </div>
 
