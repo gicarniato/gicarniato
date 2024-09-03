@@ -28,12 +28,13 @@
 </a>
 
 </div>
+<div align="center"> 
 
 ### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<div align="center"> 
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7e52af6b-3dd0-4372-b19d-24143c9edbae">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/c5d67a04-4ec0-46d1-8ff1-01c6bf950dc4">
 
 
 </div>
