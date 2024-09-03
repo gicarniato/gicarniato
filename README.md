@@ -32,7 +32,7 @@
 
 ### Main skills:
 <div align="center"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7e52af6b-3dd0-4372-b19d-24143c9edbae">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/7e52af6b-3dd0-4372-b19d-24143c9edbae">
 
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/c5d67a04-4ec0-46d1-8ff1-01c6bf950dc4">
 
@@ -46,6 +46,7 @@
 <br>
 <br> 
 
+<div align="center"> 
 
 <h2 align="left"> Studying in this moment: </h2>
 
