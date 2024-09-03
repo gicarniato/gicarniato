@@ -9,6 +9,12 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gicarniato&theme=modern-lilac&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gicarniato&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center"> 
+  
+<a  href="https://www.linkedin.com/in/giovannacardosocarniato/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f0ac7cfe-f5a6-4e17-9e7c-b5c14f520771">
+</a>
