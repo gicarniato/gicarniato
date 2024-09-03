@@ -23,16 +23,16 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
 <div align="left"> 
   
 <a  href="https://www.linkedin.com/in/giovannacardosocarniato/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/6335ca57-23d5-4af9-8725-8d9a9ed81e69">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/d2d5ed13-c3a2-4d1d-960d-fd3dfdd586b2">
 </a>
 
 <a href="mailto:cmp.1a.giicarniato36@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/94081758-6049-4d12-988c-81fd0890d395">
 </a>
 
 
-<a  href="https://discord.com/channels/@gicarniato" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0fdd645a-d6ea-4140-ac78-d0785d9dd00b">
+<a  href="https://www.instagram.com/giiicarniato" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/084264d1-080b-46e1-bc49-c30901a12cfb">
 </a>
 
 <br>
