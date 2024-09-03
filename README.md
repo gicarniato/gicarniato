@@ -55,16 +55,14 @@
 
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1d858643-73df-40df-9821-4499733e3626">
 
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/179f6618-64b0-4ed6-ab55-f61f3749636a">
 
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1bf76bf1-81dd-4c5b-895d-838a0f256ad1">
 
 </div>
 
+<br>
+<br> 
 
-<div align="center">
 
+<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
