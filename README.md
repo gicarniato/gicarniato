@@ -27,6 +27,10 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0fdd645a-d6ea-4140-ac78-d0785d9dd00b">
 </a>
 
+
+<br>
+<br> 
+
 </div>
 <div align="center"> 
 
@@ -41,10 +45,7 @@
 
 <br>
 <br> 
-<br>
-<br>
-<br>
-<br> 
+
 
 
 <h2 align="center"> Studying in this moment: </h2>
