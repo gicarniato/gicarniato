@@ -1,19 +1,29 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/b0c557af-cbcb-4bcc-8728-c0c5dad6d496"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/be361c11-023c-4cf3-af18-0537aeae6b9b"/>
 <br>
 <br>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9C0968&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Giovanna;I'm+18+years+old;I'm+a+begginer+dev)](https://git.io/typing-svg)
+<div align="left"> 
+  
+ ## Sobre mim:
+<div align="left"> 
 
+Sou estudante de ciência da computação no segundo semestre, atualmente estou focada no desenvolvimento frontend, estudando javascript, CSS, HTML. também estou iniciando o estudo em java para desenvolvimento backend para construir aplicações web completas.
 <br>
+<br>
+
+<div align="left"> 
+
+## Conecte-se Comigo:
 
 </div>
 
-<div align="center"> 
+<div align="left"> 
   
 <a  href="https://www.linkedin.com/in/giovannacardosocarniato/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f0ac7cfe-f5a6-4e17-9e7c-b5c14f520771">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/6335ca57-23d5-4af9-8725-8d9a9ed81e69">
 </a>
 
 <a href="mailto:cmp.1a.giicarniato36@gmail.com">
@@ -29,12 +39,8 @@
 <br> 
 <br> 
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gicarniato&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
 </div>
-<div align="center"> 
+<div align="left"> 
 
 ### Main skills:
 <div align="center"> 
@@ -52,18 +58,25 @@
 ### Studyng in this moment:
 
 
-<div align="center"> 
+<div align="left"> 
 
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1d858643-73df-40df-9821-4499733e3626">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/1d858643-73df-40df-9821-4499733e3626">
 
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/179f6618-64b0-4ed6-ab55-f61f3749636a">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/179f6618-64b0-4ed6-ab55-f61f3749636a">
 
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1bf76bf1-81dd-4c5b-895d-838a0f256ad1">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/1bf76bf1-81dd-4c5b-895d-838a0f256ad1">
 
 </div>
-
+<br> 
 <br>
 <br> 
+<br> 
+<br> 
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gicarniato&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
+<br>
+<br>
 <img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
