@@ -18,7 +18,7 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f0ac7cfe-f5a6-4e17-9e7c-b5c14f520771">
 </a>
 
-<a href="mailto:cmp.1a.giicarniato36@gmail.com" target="_blank">
+<a href="https://is.gd/p5GDtT" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/79ea9a26-3262-4270-a95e-6ffbe15f2d14">
 </a>
 
