@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9C0968&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Giovanna;I'm+18+years+old;I'm+a+begginer+dev)](https://git.io/typing-svg)
 
 <br>
-<br>
 
 </div>
 
@@ -26,6 +25,8 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0fdd645a-d6ea-4140-ac78-d0785d9dd00b">
 </a>
 
+<br>
+<br> 
 <br> 
 
 <div align="center">
