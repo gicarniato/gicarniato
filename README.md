@@ -18,10 +18,50 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f0ac7cfe-f5a6-4e17-9e7c-b5c14f520771">
 </a>
 
-<a href="https://is.gd/p5GDtT" target="_blank">
+<a href="mailto:giicarniato36@gmail.com"_blank">
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/79ea9a26-3262-4270-a95e-6ffbe15f2d14">
 </a>
 
 <a  href="https://discord.com/channels/@gicarniato" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/0fdd645a-d6ea-4140-ac78-d0785d9dd00b">
 </a>
+
+</div>
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+</div>
+
+
+<div align="center">
+
