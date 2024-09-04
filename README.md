@@ -38,7 +38,7 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
 
 <div align="left"> 
 
-## Studyng in this moment:
+## Estudando no momento:
 
 
 <div align="left"> 
