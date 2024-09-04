@@ -62,7 +62,7 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
   
 ![gicarniato's Stats](https://github-readme-stats.vercel.app/api?username=gicarniato&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-<a align="right"> 
+<a align="left"> 
 
 ![gicarniato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gicarniato&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
