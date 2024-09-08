@@ -10,7 +10,7 @@
  ## Sobre mim:
 <div align="left"> 
 
-Sou estudante de ciência da computação no segundo semestre, atualmente estou focada no desenvolvimento frontend, estudando javascript, CSS, HTML. também estou iniciando o estudo em java para desenvolvimento backend para construir aplicações web completas.
+Sou estudante de ciência da computação no segundo semestre, atualmente estou focada no desenvolvimento frontend, entendo de javascript, CSS, HTML. também estou iniciando o estudo em Python para desenvolvimento backend para construir aplicações web completas.
 
 <div align="left"> 
 
