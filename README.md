@@ -43,13 +43,10 @@ Sou estudante de ciência da computação no segundo semestre, atualmente estou 
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/7fd6ae49-97ca-4616-a9bf-260ea179ccc5">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e4f126a1-3f20-48d6-b604-973464e4f929">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ca8998d9-f345-4f2d-8264-c01a3e7114cf">
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/fe66fda0-b54b-4987-a788-f47a426f7503">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c9615698-788d-4933-81fe-6687ba1b61ea">
 
 </div>
 <br> 
